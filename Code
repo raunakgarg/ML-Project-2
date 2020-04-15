@@ -1,0 +1,7 @@
+In this Project we have classified the Tickets generated from Service manager application into 3 differenct catagories
+1. Software related tickets
+2. Hardware related tickets
+3. House keeping related tickets
+
+All the emails are read from the service manager application, tokens generated, after applying probability algorithm naive bayes
+and random forest also , got best performance in Naive bayes.
